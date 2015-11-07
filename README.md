@@ -1,2 +1,2 @@
 # DesignPattern
-Learning Design Pattern From <Head First Design Patterns>
+Learning Design Pattern From \<Head First Design Patterns\>
