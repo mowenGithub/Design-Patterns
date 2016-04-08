@@ -1,4 +1,4 @@
-# 第二章 观察者(Observer)模式
+# 第二章 观察者模式(Observer Pattern)
 ---
 
 ### 定义:
