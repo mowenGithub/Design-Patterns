@@ -1,4 +1,4 @@
-# 第四章 抽象工厂模式
+# 第四章 抽象工厂模式(AbstractFactory Pattern)
 ---
 
 ### 定义:
