@@ -16,6 +16,8 @@
 
 至于组合和个别对象里面一些无意义的方法，可以返回null或false或抛出异常来处理。
 
+Android中的View与ViewGroup是典型的组合模式，叶子是各种控件。
+
 ---
 
 ![Composite](./Composite.jpg)
